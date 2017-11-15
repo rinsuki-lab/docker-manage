@@ -15,3 +15,4 @@ manager.add_command('db', MigrateCommand)
 
 import myapp.models
 import myapp.views
+import myapp.api
